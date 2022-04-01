@@ -1,0 +1,215 @@
+﻿  colorMeshVerticesCmd.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\Commands\colorMeshVerticesCmd.cpp(159,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eilon\DGP_CODE_DIR\Commands\colorMeshVerticesCmd.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eilon\DGP_CODE_DIR\Commands\colorMeshVerticesCmd.cpp(196,20): warning C4018: '<': signed/unsigned mismatch
+  inverseMatrixCmd.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\Commands\inverseMatrixCmd.cpp(43,14): warning C4101: 'd': unreferenced local variable
+  topologyStatisticsCmd.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\Commands\topologyStatisticsCmd.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eilon\DGP_CODE_DIR\Commands\topologyStatisticsCmd.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+  TriangulatePolygonCmd.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\Commands\TriangulatePolygonCmd.cpp(168,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Commands\TriangulatePolygonCmd.cpp(170,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SpaceDeformer2D.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\Nodes\SpaceDeformer2D.cpp(156,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  stdafx.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+  Limit_Util.cpp
+  MatlabGMMDataExchange.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(20,83): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(33,86): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(42,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(43,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(59,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(76,98): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(85,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(86,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(102,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabGMMDataExchange.cpp(119,101): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MatlabInterface.cpp
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(13,1): warning C4005: 'ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(118): message : see previous definition of 'ERROR'
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(762,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(763,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(815,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(816,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(856,16): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(857,16): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(888,16): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(889,16): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(973,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(978,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(980,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(1018,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(1023,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(1025,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(586,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(60): message : see reference to function template instantiation 'int MatlabInterface::GetEngineIndexMatrix<int>(const char *,unsigned int &,unsigned int &,std::vector<int,std::allocator<int>> &,bool)' being compiled
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(587,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(608,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(62): message : see reference to function template instantiation 'int MatlabInterface::GetEngineRealMatrix<double>(const char *,unsigned int &,unsigned int &,std::vector<double,std::allocator<double>> &,bool)' being compiled
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(609,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(632,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(63): message : see reference to function template instantiation 'int MatlabInterface::GetEngineComplexMatrix<double>(const char *,unsigned int &,unsigned int &,std::vector<std::complex<double>,std::allocator<std::complex<double>>> &,bool)' being compiled
+C:\Users\eilon\DGP_CODE_DIR\Utils\MatlabInterface.cpp(633,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Maya_Utils.cpp
+C:\Users\eilon\DGP_CODE_DIR\Utils\Maya_Utils.cpp(63,19): warning C4018: '<': signed/unsigned mismatch
+  triangulation.cpp
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangulation.cpp(15,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangulation.cpp(109,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Utilities.cpp
+C:\Users\eilon\DGP_CODE_DIR\Utils\Utilities.cpp(51,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pluginMain.cpp
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(94,23): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): warning C4477: 'sscanf_s' : format string '%c' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(103,29): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 10 has type 'size_t'
+C:\Users\eilon\DGP_CODE_DIR\gmm-4.2\include\gmm\gmm_inoutput.h(829,24): message : this argument is used as a buffer size
+  Generating Code...
+  triangle.c
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3658,10): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3658,10): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3664,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3664,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3671,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3671,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3678,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3678,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3686,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3686,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3693,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3693,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3700,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3700,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3707,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3707,14): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3712,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3712,14): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3717,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3717,14): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3752,10): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3752,10): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3758,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3758,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3765,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3765,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3773,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3773,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3780,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3780,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3788,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3788,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3795,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3795,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3803,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3803,12): message : consider using '%tx' in the format string
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3810,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'ptrdiff_t'
+C:\Users\eilon\DGP_CODE_DIR\Utils\triangle.c(3810,12): message : consider using '%tx' in the format string
+     Creating library Debug\DGP.lib and object Debug\DGP.exp
+  DGP_VS2017.vcxproj -> C:\Users\eilon\DGP_CODE_DIR\plug-ins\Debug_x64_DGP_VS2017.mll
